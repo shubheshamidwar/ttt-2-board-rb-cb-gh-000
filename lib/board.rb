@@ -1,2 +1,2 @@
-board = "Tic Tak Toe"
+board = array
 board [" ", " ", " ", " ", " ", " ", " ", " ", " "]
